@@ -1,4 +1,5 @@
 # LISTAS PYTHON
+# METODOS PYTHON
 
 #INDICES            0        1        2      3      4
 lista_cursos = ['Python','Django','Flask','Ruby','Java','Rust']
